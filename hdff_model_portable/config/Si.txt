@@ -1,0 +1,28 @@
+# Si.txt
+# 元素性质描述符文件
+# 数值来自用户整理的最终元素性质表。
+
+Mendeleev number = 85
+Period = 3
+Group = 14
+Atomic number = 14
+Valence electrons = 4
+Atomic mass = 28.085
+Electron affinity = 1.3895212
+Electronegativity = 1.9
+First ionization energy = 786.52
+Second ionization energy = 1577.13
+Effective nuclear charge = 4.29
+Chemical hardness = 3.381
+Covalent radius = 111
+Empirical atomic radius = 110
+Van der Waals radius = 210
+Polarizability = 5.38
+Molar volume = 12.06
+Molar heat capacity = 20
+Enthalpy of atomization = 456
+Number of unfilled orbitals = 3
+Valence principal quantum number = 3
+Typical covalent bond count = 4
+C-X bond energy = 318
+Number of unpaired electrons = 2

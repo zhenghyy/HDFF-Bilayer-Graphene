@@ -1,0 +1,28 @@
+# P.txt
+# 元素性质描述符文件
+# 数值来自用户整理的最终元素性质表。
+
+Mendeleev number = 90
+Period = 3
+Group = 15
+Atomic number = 15
+Valence electrons = 5
+Atomic mass = 30.973762
+Electron affinity = 0.746609
+Electronegativity = 2.19
+First ionization energy = 1011.81
+Second ionization energy = 1907.47
+Effective nuclear charge = 4.89
+Chemical hardness = 4.87
+Covalent radius = 107
+Empirical atomic radius = 100
+Van der Waals radius = 180
+Polarizability = 3.63
+Molar volume = 17.02
+Molar heat capacity = 23.84
+Enthalpy of atomization = 315
+Number of unfilled orbitals = 3
+Valence principal quantum number = 3
+Typical covalent bond count = 3
+C-X bond energy = 264
+Number of unpaired electrons = 3

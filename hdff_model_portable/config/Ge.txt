@@ -1,0 +1,28 @@
+# Ge.txt
+# 元素性质描述符文件
+# 数值来自用户整理的最终元素性质表。
+
+Mendeleev number = 84
+Period = 4
+Group = 14
+Atomic number = 32
+Valence electrons = 4
+Atomic mass = 72.63
+Electron affinity = 1.2326764
+Electronegativity = 2.01
+First ionization energy = 762.18
+Second ionization energy = 1537.46
+Effective nuclear charge = 6.78
+Chemical hardness = 3.333
+Covalent radius = 120
+Empirical atomic radius = 125
+Van der Waals radius = 211
+Polarizability = 6.07
+Molar volume = 13.63
+Molar heat capacity = 23.35
+Enthalpy of atomization = 377
+Number of unfilled orbitals = 3
+Valence principal quantum number = 4
+Typical covalent bond count = 4
+C-X bond energy = 238
+Number of unpaired electrons = 2

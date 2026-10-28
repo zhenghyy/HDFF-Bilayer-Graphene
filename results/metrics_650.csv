@@ -1,0 +1,5 @@
+target,unit,n,mae,rmse
+formation_energy_eV,eV,650,0.319128112,0.5693115
+interlayer_spacing_mean_A,A,650,0.112884694,0.248326486
+fermi_level_eV,eV,650,0.080929758,0.128764129
+total_electronic_energy_eV,eV,650,1.442800862,2.016111949
