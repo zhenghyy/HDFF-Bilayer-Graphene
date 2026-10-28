@@ -44,12 +44,12 @@ python verify_package.py
 ```
 
 GPU inference is also supported by replacing `--device cpu` with `--device cuda`.
-
+s
 ## Prediction Results
 
 The prediction script generates:
 
-- `results/predictions_650.csv`: Predicted and reference values for the four properties.
-- `results/metrics_650.csv`: Evaluation metrics for the 650 structures.
+- `results/predictions.csv`: Predicted and reference values for the four properties.
+- `results/metrics.csv`: Evaluation metrics for the 650 structures.
 
 The package is intended to reproduce predictions using the supplied pretrained models. The 650-structure collection includes some training samples, so its aggregate metrics should not be interpreted as independent test-set performance.
